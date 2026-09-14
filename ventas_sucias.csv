@@ -1,0 +1,19 @@
+fecha;producto;cantidad;precio_unitario;sede;canal;calificacion
+2026-08-03;Bowl Andino ;2;24000; Centro;Salón;5
+2026-08-03;Pasta Urbana;1;28000;norte;Aplicación;
+2026-08-04; Bowl Andino;1;24000;CENTRO;Para llevar;
+2026-08-04;Hamburguesa Central;2;30000;Norte ;Aplicación;
+2026-08-05;Ensalada de la Casa;1;22000;centro;;
+2026-08-05;Limonada Natural;2;8000; Centro ;Salón;4
+2026-08-06;Pasta Urbana;2;28000;NORTE;Salón;
+2026-08-07;Bowl Andino;3;24000;Centro;Aplicación;3
+2026-08-07;Bowl Andino;3;24000;Centro;Aplicación;3
+2026-08-10;Pasta Urbana ;1;28000;Centro;Para llevar;
+2026-08-10;Hamburguesa Central;1;30000;norte;Aplicación;
+2026-08-11;Bowl Andino;2;24000;Centro;;
+2026-08-11;Ensalada de la Casa;2;22000; centro;Aplicación;5
+2026-08-12;Hamburguesa Central;1;30000;Norte;Aplicación;
+2026-08-12;Limonada Natural;3;8000;Centro;Para llevar;
+2026-08-13;Pasta Urbana;1;28000;Norte;Aplicación;
+2026-08-13;Pasta Urbana;1;28000;Norte;Aplicación;
+2026-08-14;Bowl Andino;2;24000;CENTRO ;Salón;4
